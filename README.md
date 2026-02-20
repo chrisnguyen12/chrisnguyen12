@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Chris, a  freelance developer 👨‍💻 working remotely on Shopify and webflow websites 🚀</div>  
+### <div align="center">I'm Chris, currently studying accounting and cybersecurity</div>  
   
 
-- 🔭 I’m currently working on [Pricing Panel](https://github.com/chrisnguyen12/PricingPanel)  
+- 🔭 I’m currently working on Python courses
   
 
-- 🌱 I’m currently learning Marketing and finances   
+- 🌱 I’m currently learning  accounting and cybersecurity.  
   
 
-- ❓ Ask me about anything related to  photography or filmmaking   
+- ❓ Ask me about anything related to  accounting  
   
 
 -  🐧Fun fact:  I like Penguins  
